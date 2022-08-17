@@ -16,4 +16,5 @@ public class No_Screechers : Mod
     public void OnModUnload()
     {
         Debug.Log("Mod No_Screechers has been unloaded!");
+    }
 }
